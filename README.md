@@ -1,4 +1,4 @@
-# 3D Model Website
+# React Three 3d Model
 
 This is a simple 3D model website built using React Three. It allows users to view and interact with 3D models directly from the browser.
 
