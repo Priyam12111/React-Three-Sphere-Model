@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  overflow: hidden;
+}
+nav {
+  position: absolute;
+  background: black;
+  color: white;
+}
+.navbar {
+  position: absolute;
+  left: 300px;
+}
+.navbar-brand {
+  font-size: 0.8rem;
+  color: white;
+  position: absolute;
+  top: 50px;
+  display: flex;
+}
+.right {
+  position: absolute;
+  left: 700px;
+}
+.CreateBox {
+  position: absolute;
+  left: 100px;
+}
