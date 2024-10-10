@@ -1,8 +1,48 @@
-# React + Vite
+# 3D Model Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple 3D model website built using React Three. It allows users to view and interact with 3D models directly from the browser.
 
-Currently, two official plugins are available:
+## Features
+- Interactive 3D models rendered using React Three.
+- Responsive design for different screen sizes.
+- Easy-to-use UI for rotating, zooming, and panning 3D models.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+### Prerequisites
+Ensure you have Node.js and npm installed. If not, you can download them [here](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Priyam12111/React-Three-Sphere-Model.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd React-Three-Sphere-Model
+    ```
+
+3. Install dependencies:
+    ```bash
+    npm i 
+    ```
+
+4. Start the development server:
+    ```bash
+    npm start dev
+    ```
+
+5. Open your browser and visit `http://localhost:5173` to view the 3D model website.
+
+## Technologies Used
+- **React**: JavaScript library for building user interfaces.
+- **React Three Fiber**: React renderer for Three.js.
+- **Three.js**: 3D graphics library for rendering models in the browser.
+
+## License
+This project is unlicensed.
+
+## Contact
+For any inquiries, feel free to reach out via email at [priyamtomar012@gmail.com].
